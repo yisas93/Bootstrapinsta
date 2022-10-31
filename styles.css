@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+    background-color: white;
+    margin:auto;
+    max-width: 400px;
+   
+}
+.container{
+    max-width:400px;
+    margin:auto;
+    background-color: white;
+    position:relative
+    align-items: center;
+    text-align: center;
+    margin-top:100px;
+}
+body{
+    background-color: aliceblue;
+    height: 2000px;
+}
+.pics_desc{
+    width: 400px;
+    background-color: white;
+    padding-bottom: 2px;
+    text-align: left;
+    display: flex;
+   
+}
+.pics_desc_down{
+    margin:auto;
+    width: 400px;
+    background-color: white;
+    padding-bottom: 2px;
+    text-align: left;
+   
+}
+.span{
+    width:10px;
+    height:10px;
+    margin-left: 260px;
+    color:grey;
+  }
+}
